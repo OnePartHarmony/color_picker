@@ -1,14 +1,19 @@
+button {
+    height: 40px;
+    font-size: 30px;
+}
+
 div {
-    border: 1px solid white;
+    margin: 2px 2px 0px 2px;
 }
 
 #container {
-    width: 608px;
+    width: 700px;
 }
 
 #color-palette, #my-palette {
     display: inline-block;
-    width: 300px; height: 500px;
+    width: 330px; height: 530px;
     overflow: hidden;
 }
 
